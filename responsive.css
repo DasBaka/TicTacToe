@@ -1,0 +1,11 @@
+@media (min-width: 275px) {
+  :root {
+    font-size: calc(0.46875rem + ((1vw - 2.75px) * 0.7296));
+    min-height: 0vw;
+  }
+}
+@media (min-width: 1440px) {
+  :root {
+    font-size: 16px;
+  }
+}
